@@ -13,8 +13,7 @@ The goal of this project is to build a conversational recommendation system that
 https://shl-assessment-agent-production-ac55.up.railway.app/docs#/default/chat_chat_post
 
 **GitHub Repository**
-
-:contentReference[oaicite:0]{index=0}
+https://github.com/jaishreeshyam7/shl-assessment-agent.git
 
 ---
 
