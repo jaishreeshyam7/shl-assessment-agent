@@ -1,6 +1,11 @@
 venv/
 .venv/
-.env
 __pycache__/
 *.pyc
-.env.example
+
+.env
+
+data/faiss/index.faiss
+data/faiss/metadata.pkl
+
+.pytest_cache/
